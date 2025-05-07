@@ -68,20 +68,28 @@ The goal was to automate and optimize ShopWorld’s inventory system. Key object
 - Updates to customer-facing systems or interfaces (e.g., website)  
 - Non-inventory-related business processes  
 
-## 7. Tools Used  
+## 7. Key Stakeholders
+## Key Stakeholders:
+- **Store Managers:** Provide input on inventory management challenges and requirements.
+- **Warehouse Supervisors:** Ensure smooth coordination between inventory management and warehouse processes.
+- **Purchasing Managers:** Manage vendor relations and order fulfillment.
+- **Vendors:** Work with ShopWorld to ensure timely deliveries and stock availability.
+- **IT Team:** Responsible for the system integration, digital tool implementation, and data analysis.
+
+## 8. Tools Used  
 - **Excel:** Initial data analysis and current process documentation  
 - **Power BI:** Building interactive dashboards for forecasting and decision-making  
 - **Word & PowerPoint:** For stakeholder presentations and documentation  
 - **Flowcharts & Stakeholder Maps:** To visualize processes and stakeholder relationships  
 
-## 8. Key Deliverables  
+## 9. Key Deliverables  
 -  Full Project Charter  
 -  In-Scope and Out-of-Scope Document  
 -  Solution Recommendation Presentation  
 -  Stakeholder Feedback Summary  
 -  90-Day Pilot Implementation Roadmap  
 
-## 9. Outcome  
+## 10. Outcome  
 The leadership team approved the pilot project after reviewing the clear, data-driven business case. My contribution laid the groundwork for ShopWorld to begin automating its inventory system. The approved pilot aimed to reduce operational costs by 15% and improve product availability and customer satisfaction.
 
 ## 10. Lessons Learned  
