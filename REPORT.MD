@@ -69,7 +69,7 @@ The goal was to automate and optimize ShopWorld’s inventory system. Key object
 - Non-inventory-related business processes  
 
 ## 7. Key Stakeholders
-## Key Stakeholders:
+
 - **Store Managers:** Provide input on inventory management challenges and requirements.
 - **Warehouse Supervisors:** Ensure smooth coordination between inventory management and warehouse processes.
 - **Purchasing Managers:** Manage vendor relations and order fulfillment.
@@ -87,12 +87,15 @@ The goal was to automate and optimize ShopWorld’s inventory system. Key object
 -  In-Scope and Out-of-Scope Document  
 -  Solution Recommendation Presentation  
 -  Stakeholder Feedback Summary  
--  90-Day Pilot Implementation Roadmap  
+-  90-Day Pilot Implementation Roadmap 
+
+## Project Charter
+The **[Project Charter PDF](path-to-your-pdf)** outlines the full project scope, objectives, and planning details. You can view and download the document for further details. 
 
 ## 10. Outcome  
 The leadership team approved the pilot project after reviewing the clear, data-driven business case. My contribution laid the groundwork for ShopWorld to begin automating its inventory system. The approved pilot aimed to reduce operational costs by 15% and improve product availability and customer satisfaction.
 
-## 10. Lessons Learned  
+## 11. Lessons Learned  
 This project helped me:  
 - Translate business challenges into data-backed solutions  
 - Work collaboratively using both technical tools and people skills  
