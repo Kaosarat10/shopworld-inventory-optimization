@@ -73,7 +73,7 @@ This strategy was designed to encourage collaboration, provide timely updates, a
 
 ## View Stakeholder Matrix
 
-📄 [Click here to view the full Stakeholder Matrix and Engagement Plan](docs/stakeholder-matrix.pdf)
+📄 [Click here to view the full Stakeholder Matrix and Engagement Plan](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Stakeholder%20engagement%20for%20SHOPWORLD.pdf)
 
 
 ## Conclusion
