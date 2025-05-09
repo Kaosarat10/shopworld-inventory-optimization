@@ -60,7 +60,7 @@ Engage early, explain the purpose clearly, and present the system as a solution 
 
 You can view the full Requirement Elicitation Plan and supporting rationale at the link below:
 
-**[View full documentation here](INSERT_LINK_HERE)**
+**[View full documentation here](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Stakeholder%20Elicitation%20and%20Interview%20Guide.pdf)**
 
 
 
