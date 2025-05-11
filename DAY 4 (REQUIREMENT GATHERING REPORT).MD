@@ -103,5 +103,5 @@ The gathered requirements show a strong need for automation, real-time updates, 
 
 ## Full Report PDF
 
-[Click here to view the full PDF report](INSERT-YOUR-PDF-LINK-HERE)
+[Click here to view the full PDF report](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Requirement%20Gathering%20Report.pdf)
 
