@@ -11,7 +11,7 @@ In this section, I conducted a detailed analysis of the current (as-is) process 
 
 - **Bottlenecks**: These occur when specific parts of the process slow down or block the overall flow, causing delays. For example, manual stock checks, manual documentation, and delayed order updates contribute to bottlenecks.
 
-For the full process analysis and detailed documentation, check the full document here: [Process Analysis PDF](link_to_your_pdf_file)
+For the full process analysis and detailed documentation, check the full document here: [Process Analysis PDF](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/PROCESS%20ANALYSIS.pdf)
 
 ---
 
@@ -24,4 +24,4 @@ Based on the process analysis, I translated the identified inefficiencies, bottl
 
 In this section, I outlined business objectives aimed at improving the overall efficiency of the inventory process, ensuring that products are available when needed, and reducing manual errors. Key business needs include real-time tracking of inventory, reducing delays in updating records, and improving customer satisfaction by avoiding stockouts.
 
-For the full business needs and objectives document, check the full document here: [Business Needs PDF](link_to_your_pdf_file)
+For the full business needs and objectives document, check the full document here: [Business Needs PDF](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/BUSINESS%20NEEDS%20AND%20OBJECTIVES.pdf)
