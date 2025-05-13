@@ -6,7 +6,7 @@ In this section, I created a detailed **As-Is Process Map** to visually represen
 ### Process Mapping Overview
 The process map shows the journey from the point when a vendor supplies goods to when a customer places an order, including the steps of recording inventory, sales, and stock management. Key decision points and manual processes are clearly marked, which contribute to bottlenecks and inefficiencies in the system. The As-Is process mapping helped to identify areas that need intervention to streamline operations and enhance productivity.
 
-![As-Is Process Map](link_to_your_image_file)
+![As-Is Process Map](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/SHOPWORLD%20AS-IS%20PROCESS%20(1).jpg)
 
 
 
