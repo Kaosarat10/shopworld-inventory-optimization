@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document outlines the **functional requirements** of the proposed system—clearly stating what the system will do in practical terms. Functional requirements are the Operational actions or features of the system to meet the business needs identified earlier.
+This document outlines the **functional requirements** of the proposed system—clearly stating what the system will do in practical terms. Functional requirements are the operational actions or features of the system to meet the business needs identified earlier.
 
 These were derived directly from the business needs identified during earlier analysis. For ShopWorld, the goal is to move from manual, delayed processes to an **automated, real-time inventory management system** that connects all departments—sales, procurement, and store—in one seamless workflow.
 
@@ -12,4 +12,4 @@ The functional requirements in this document have been tailored to align with th
 
 This helped align the system features with real day-to-day operations and ensured that the requirements are relevant, useful, and directly tied to solving the pain points already identified.
 
-**Check the full documentation here**: [Insert PDF/document link]
+**Check the full documentation here**: [https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Functional%20Requirements%20Document.pdf]
