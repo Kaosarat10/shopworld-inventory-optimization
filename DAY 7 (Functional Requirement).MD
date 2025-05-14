@@ -12,4 +12,5 @@ The functional requirements in this document have been tailored to align with th
 
 This helped align the system features with real day-to-day operations and ensured that the requirements are relevant, useful, and directly tied to solving the pain points already identified.
 
-**Check the full documentation here**: [https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Functional%20Requirements%20Document.pdf]
+**[Check the full documentation here**]: (https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Functional%20Requirements%20Document.pdf)
+
