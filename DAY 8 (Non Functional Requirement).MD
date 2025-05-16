@@ -15,6 +15,6 @@ To ensure the system meets business expectations, I defined each requirement wit
 These requirements were informed by the business context, user environment, and specific needs already documented earlier (like the stakeholders’ limited digital literacy, the importance of performance and availability, and the need for future growth).
 
 📄 **Check the full documentation here**:  
-[**Non-Functional Requirements (PDF)**](link-to-your-uploaded-pdf)
+[https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Non%20Functional%20Requirement.pdf)
 
 ---
