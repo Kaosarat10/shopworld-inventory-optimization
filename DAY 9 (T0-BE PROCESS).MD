@@ -18,7 +18,7 @@ Each step in the process was carefully thought out to reduce manual work, improv
 
 ---
 
-### [View To-Be Process](LINK_TO_YOUR_IMAGE)
+### [View To-Be Process](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/TO-BE%20(SHOPWORLD)%20PROCESS.png)
 
 
 ---
