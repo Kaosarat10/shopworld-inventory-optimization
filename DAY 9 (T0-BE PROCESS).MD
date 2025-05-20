@@ -6,7 +6,7 @@ This document outlines the **future (to-be) process** designed to improve ShopWo
 ## Purpose  
 The to-be process shows how the recommended system will work in a real business setting. It explains how roles such as warehouse staff, sales team, procurement, and purchasing will interact with the system to complete daily tasks more accurately and faster.
 
-## Behind the Solution  
+## What the System Will Do 
 The system design includes features like:
 - Barcode scanning to record stock instantly  
 - Real-time inventory tracking across all departments  
