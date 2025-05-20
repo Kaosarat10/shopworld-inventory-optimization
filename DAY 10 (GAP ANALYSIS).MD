@@ -1,6 +1,7 @@
 ##  ShopWorld Gap Analysis (Behind the Scenes)
 
 I conducted a **gap analysis** after carefully designing the **To-Be** process for ShopWorld.This involved comparing it with their current manual process to identify key gaps. 
+
 For ShopWorld, I started by analyzing the current inventory and sales operations, which were mostly manual, prone to errors, and lacked centralized visibility.  
 I then mapped a future process powered by an automated inventory management system and compared both to identify the **gaps** and how the new system solves them.
 
