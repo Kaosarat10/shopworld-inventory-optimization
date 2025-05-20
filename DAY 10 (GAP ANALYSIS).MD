@@ -34,4 +34,4 @@ These gaps identified earlier are now **effectively bridged** through this solut
 
 ---
 
-📄 **[View Full Gap Analysis Document](link)**
+📄 **[View Full Gap Analysis Document](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/ShopWorld%20Gap%20Analysis.pdf)**
