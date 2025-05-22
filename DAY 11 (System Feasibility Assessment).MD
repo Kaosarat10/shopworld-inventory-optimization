@@ -1,7 +1,7 @@
 # SHOPWORLD Inventory System: Feasibility & Requirements Analysis
 
 ##  Introduction  
-This document was prepared to guide the design of the **SHOPWORLD Inventory System**, a digital solution created to solve a real business challenge — **manual inventory tracking and ordering**.
+This document was prepared to guide the design of the **SHOPWORLD Inventory System**, a digital solution created to solve a real business challenge of **manual inventory tracking and ordering**.
 
 Many departments like sales, store, and procurement currently track stock and make purchase requests manually, leading to **mistakes, stockouts, and delays**. The new system is built to:
 - Automate inventory updates  
