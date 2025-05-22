@@ -51,12 +51,14 @@ I listed all **core features** the system must have. Then I:
 ###  MoSCoW Prioritization  
 - **Must have**:  
   - Real-time tracking  
+  - Barcode scanning for instant updates
   - Low stock alerts  
-  - Reorder generation  
+  - Unified inventory access across departments
 - **Should have**:  
   - Dashboards for sales trends  
+  - Reorder generation
 - **Could have**:  
-  - Mobile app-based scanning  
+  - Advanced analytics or predictive stock ordering   
 - **Won’t have for now**:  
   - Supplier integration  
 
@@ -77,3 +79,7 @@ With feasibility confirmed and core requirements mapped out, the next phase is:
 - Designing the system interface  
 - Testing scanning, alerts, and dashboard setup  
 - Training users in **sales**, **store**, and **procurement** departments  
+
+## View Full Resources  
+- [View the full documentation](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Feasibility%20and%20Requirement%20Analysis.pdf)  
+- [See how the system works step by step](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/SOLUTION%20SET-UPS.pdf) 
