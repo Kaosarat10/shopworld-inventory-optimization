@@ -54,15 +54,15 @@ This BRD includes:
 ##  Tools Used
 
 - Microsoft Word (Documentation)
-- Draw.io or Lucidchart (Process Diagrams)
-- Power BI (Dashboard Integration – Described in BRD)
+- Draw.io  (Process Diagrams)
 - GitHub (Version Control & Portfolio Hosting)
+- Canva (Presentation)
 
 ---
 
 ##  What I Did
 
-- Researched existing inventory challenges in small retail businesses.
+- Researched existing inventory challenges of Shopworld business.
 - Defined system requirements and traced each to a clear business need.
 - Created step-by-step operational use cases for real-world execution.
 - Structured all findings and designs into a professional BRD document.
