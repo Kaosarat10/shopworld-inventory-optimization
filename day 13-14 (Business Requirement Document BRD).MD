@@ -40,13 +40,13 @@ This BRD includes:
 
 ##  Project Files
 
-- 🔗 **View Full BRD Document**  
+-  **View Full BRD Document**  
   [Click to view BRD](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/Business%20Requirements%20Document%20(BRD).pdf)
 
-- 🔗 **View "As-Is" Process Diagram**  
+-  **View "As-Is" Process Diagram**  
   [Click to view As-Is](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/SHOPWORLD%20AS-IS%20PROCESS%20(1).jpg)
 
-- 🔗 **View "To-Be" Process Diagram**  
+-  **View "To-Be" Process Diagram**  
   [Click to view To-Be](https://github.com/Kaosarat10/shopworld-inventory-optimization/blob/main/TO-BE%20(SHOPWORLD)%20PROCESS.png)
 
 ---
